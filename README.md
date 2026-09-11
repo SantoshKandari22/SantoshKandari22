@@ -1,14 +1,14 @@
 <div align="center">
   <a href="https://github.com/SantoshKandari22/SantoshKandari22">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantoshKandari22/SantoshKandari22/main/dark.svg">
-      <img alt="GitHub Profile" src="https://raw.githubusercontent.com/SantoshKandari22/SantoshKandari22/main/light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+      <img alt="GitHub Profile" src="light.svg">
     </picture>
   </a>
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SantoshKandari22/SantoshKandari22/main/dist/github-jet.svg" alt="GitHub Jet Heatmap Animation" width="100%" />
+  <img src="dist/github-jet.svg" alt="GitHub Jet Heatmap Animation" width="100%" />
 </p>
 
 # 🚀 GitHub Jet Contribution Heatmap
